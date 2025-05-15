@@ -1,1 +1,7 @@
-
+-  Reason
+   -  not login as admin when add item and image
+      Fix
+        -  login as admin 
+   -  backend server not working
+      Fix
+        -  start backend or restart backend server
